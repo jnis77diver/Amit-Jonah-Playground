@@ -1,0 +1,9 @@
+{
+  "generator-gulp-es6-webapp": {
+    "answers": {
+      "projectName": "Amit-Jonah-Playground",
+      "projectDescription": "playing with ES6",
+      "githubUser": "jnis77diver"
+    }
+  }
+}
